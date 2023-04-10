@@ -34,7 +34,7 @@ section .container {
 }
 
 .container img{
-    width: 42%;
+    width: 52%;
     margin: 8 7 auto;
     padding: 20px;
     border-radius: 30px;
@@ -42,7 +42,7 @@ section .container {
     }
 
 .container img:hover {
-        filter: brightness(1.35);
+        filter: brightness(1.15);
         transform: scale(1.05);
         transition: 0.4s;
         cursor: pointer;}
@@ -81,7 +81,7 @@ header nav li a:hover{
     cursor: pointer;
 }
 .marcas img{
-    width: 24%;
+    width: 20%;
 }
 .marcas img:hover{
     transform: scale(1.1);
@@ -113,14 +113,14 @@ section h3{
 section h2{
     color: rgba(255, 154, 21, 0.788);
     margin-bottom: 5px;
-    font-size: 30px;
+    font-size: 16.4px;
     font-weight: normal;
 }
 
 
 section p {
-    color: rgb(31, 71, 122);
-    font-size: 21px;
+    color: rgb(23, 70, 133);
+    font-size: 16px;
 }
 
 .medias img{
@@ -164,7 +164,7 @@ form button{
     transition: 0.3s;}
 
 form button:hover{
-    background-color: rgb(243, 163, 89);
+    background-color: rgb(109, 135, 250);
     color: rgb(255, 255, 255);
     transition: 0.3s;
 }
